@@ -1,3 +1,29 @@
-Mobile Accessories has 50 pages hence there should be a dynamic way of getting all of the information 
+The number which each and every page should provide to our dataset for the analysis process
 
-setting all of the information to Nan if empty else they should be filled
+smartphones: 5pages -- 200
+computing : 20 pages -- 1000
+home_apliances: 25 pages -- 1200
+home_apliances from abroad : 60
+mobile_accessories: 25 pages -- 1200
+watches : 25 pages -- 1200 
+
+Approimate total -- 5000 data entries
+
+Automating all to be in a single excecutable code
+A function that is incharge of appending the retreived information into the list whenever each and every page is called and ececuted.
+
+## Data Analysis and Preprocessing 
+1. Separate brands from the information given - python
+2. Count the number of each brand and group articles based on different brands - SQL
+3. For articles with no discount, fill initial price to be the same as the current price and the percentage as zero -- SQL 
+4. In the article rating, remove the out of section -python
+5. check trends on the shipped from abroad and those within country - SQL 
+6. check the current prices that shows a range, count and remove if the number isnt that much - SQL
+7. sort per category_type and brand i.e the smartphones and their brands - SQL
+8. convert the columns to their respective data types - SQL
+
+
+## Data Visualization
+1. Bar chart of the top 5 brands with the highest number of articles
+2. visualization of those shipped from outside country and those within country
+3. Category with the highest discount rates, and each category with their overal percentages offered

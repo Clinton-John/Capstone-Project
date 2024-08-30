@@ -2,4 +2,5 @@ project.txt
 env/
 
 trials.py
-mobile_access_df.csv
+jumia_articles.csv
+
