@@ -1,0 +1,3 @@
+Mobile Accessories has 50 pages hence there should be a dynamic way of getting all of the information 
+
+setting all of the information to Nan if empty else they should be filled
