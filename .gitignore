@@ -3,4 +3,6 @@ env/
 
 trials.py
 jumia_articles.csv
-
+jumia_articles_prep1.csv
+jumia_articles_prep2.xlsx
+~$jumia_articles_prep2.xlsx

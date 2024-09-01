@@ -27,3 +27,9 @@ A function that is incharge of appending the retreived information into the list
 1. Bar chart of the top 5 brands with the highest number of articles
 2. visualization of those shipped from outside country and those within country
 3. Category with the highest discount rates, and each category with their overal percentages offered
+
+#Tomorrows task
+transfer all the data into the local database and then start the analysis process using SQL. Then use powerBI to create dashboards for visualization
+
+Create a database - Scraped Articles -- then a table known as jumia articles with the columns similar to the dataset we have  
+Using the Import Wizard in the sql data, the data is fully transfered into the created table on the database 
