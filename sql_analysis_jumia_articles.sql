@@ -5,7 +5,7 @@ CREATE DATABASE capstone_project;
 -- use the database for operations
 use capstone_project;
 
--- if there exists a similar table then drop it before creating a new one
+-- if there exists a similar table then drop it before creating a new one to avoid any errors
 Drop table if exists jumia_articles;
 
 -- create a new table known as jumia_articles

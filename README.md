@@ -1,6 +1,6 @@
 **E-COMMERCE WEB SCRAPING AND DATA ANALYSIS PROJECT**
 
-This project involves scraping products from Jumia, a well known and trusted e commerce website, adding the scraped data into a Mysql database, exploring the data and then using the retreived data to analyse and create and interactive dashboard. The dashboard contains different graphs and charts that show the distribution of the discounted data. 
+This project involves scraping products from Jumia, a well known and trusted E-Commerce site website, adding the scraped data into a Mysql database, exploring the data and then using the retreived data to analyse and create and interactive dashboard. The dashboard contains different graphs and charts that show the distribution of the discounted data. 
 
 The Project involves Scraping more than 100 pages of Jumia website and creating up to 7 different features which are passed into a csv file, then loaded to the local database where it can be fetched
 
@@ -21,4 +21,6 @@ FILES
 5. sql_analysis_jumia.sql - contains the databse creation, loading of the data, and some analysis using sql 
 
 PROJECT DESCRIPTION
-The Web Scraping and Analysis from Jumia shows how different categories of products relate to each other and their distribution. Through the charts, the top Brands are obtained, top brands per category, the categories with the highest discount, the categories with the highest ratings, and they are presented through charts.
+The Web Scraping and Analysis from Jumia shows how different categories of products relate to each other and their distribution. Through the charts, the top Brands are obtained, top brands per category, the categories with the highest discount, the categories with the highest ratings, and they are presented through charts. The Ecommerce web scraping main file gives you the opportunity to change the number of pages you would like to scrape, increasing the number of datasets you can get. 
+
+This Project gives insights about different companies and organizations, how their discount percentages vary, and the ratings that different users gives them in different situations. This information can be used to promote some of the most used brands, building the user confidence and trust in the E-Commerce website.
